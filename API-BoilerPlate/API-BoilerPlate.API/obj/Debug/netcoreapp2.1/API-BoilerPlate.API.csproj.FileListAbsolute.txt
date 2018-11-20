@@ -1,0 +1,14 @@
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\bin\Debug\netcoreapp2.1\API-BoilerPlate.API.deps.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\bin\Debug\netcoreapp2.1\API-BoilerPlate.API.runtimeconfig.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\bin\Debug\netcoreapp2.1\API-BoilerPlate.API.runtimeconfig.dev.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\bin\Debug\netcoreapp2.1\API-BoilerPlate.API.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\bin\Debug\netcoreapp2.1\API-BoilerPlate.API.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.csprojResolveAssemblyReference.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.csproj.CoreCompileInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.RazorAssemblyInfo.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.RazorAssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.AssemblyInfoInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.AssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.RazorTargetAssemblyInfo.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.API\obj\Debug\netcoreapp2.1\API-BoilerPlate.API.pdb
