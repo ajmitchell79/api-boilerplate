@@ -1,0 +1,14 @@
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\API-BoilerPlate.Test.deps.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\API-BoilerPlate.Test.runtimeconfig.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\API-BoilerPlate.Test.runtimeconfig.dev.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\API-BoilerPlate.Test.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\bin\Debug\netcoreapp2.1\API-BoilerPlate.Test.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.csprojAssemblyReference.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.csproj.CoreCompileInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.AssemblyInfoInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.AssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Test\obj\Debug\netcoreapp2.1\API-BoilerPlate.Test.pdb

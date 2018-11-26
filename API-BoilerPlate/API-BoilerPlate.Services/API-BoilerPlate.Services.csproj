@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>API_BoilerPlate.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API-BoilerPlate.BRL\API-BoilerPlate.BRL.csproj" />
+    <ProjectReference Include="..\API-BoilerPlate.DAL\API-BoilerPlate.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

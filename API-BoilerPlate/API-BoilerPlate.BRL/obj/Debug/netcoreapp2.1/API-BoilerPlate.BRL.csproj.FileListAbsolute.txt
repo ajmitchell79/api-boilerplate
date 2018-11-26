@@ -1,0 +1,9 @@
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\bin\Debug\netcoreapp2.1\API-BoilerPlate.BRL.deps.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\bin\Debug\netcoreapp2.1\API-BoilerPlate.BRL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\bin\Debug\netcoreapp2.1\API-BoilerPlate.BRL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.csproj.CoreCompileInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.AssemblyInfoInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.AssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.BRL\obj\Debug\netcoreapp2.1\API-BoilerPlate.BRL.csprojAssemblyReference.cache

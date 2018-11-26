@@ -1,0 +1,14 @@
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.DAL.deps.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.DAL.runtimeconfig.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.DAL.runtimeconfig.dev.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.DAL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.DAL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.BRL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\bin\Debug\netcoreapp2.1\API-BoilerPlate.BRL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.csprojAssemblyReference.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.AssemblyInfoInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.AssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.csproj.CopyComplete
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.DAL\obj\Debug\netcoreapp2.1\API-BoilerPlate.DAL.pdb
