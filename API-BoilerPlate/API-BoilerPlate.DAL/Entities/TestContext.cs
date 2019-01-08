@@ -23,7 +23,8 @@ namespace API_BoilerPlate.DAL.Entities
         {
             modelBuilder.Entity<Orders>(entity =>
             {
-                entity.Property(e => e.Date).HasColumnType("datetime");
+                entity.Property(e => e.Date)
+                    .HasColumnType("datetime");
 
                 entity.Property(e => e.OrderedBy)
                     .HasMaxLength(100)

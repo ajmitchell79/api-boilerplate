@@ -41,21 +41,20 @@ namespace API_BoilerPlate.Services
             return result;
         }
 
-        public async Task<List<Order>> GetAllOrdersDetailed()
+        public async Task<List<OrderDetailed>> GetAllOrdersDetailed()
         {
             var result = await _ordersRepository.GetAll()
-                .Select(x =>
-                    Mapper.Map<Order>(x))
-
-                //.include
-                //.theninclude
-
-                //new BRL.Query.Order()
-                //{
-                //   Id = x.Id,
-                //    OrderedBy = x.OrderedBy,
-                //    OrderedDate = x.Date
-                //})
+                    .Include(a=> a.OrderShoes)
+                    .ThenInclude(b=>b.Shoe)
+                    .Select(x =>
+                    new OrderDetailed()
+                    {
+                        OrderId = x.Id
+                       
+                    }
+                )
+                    //Mapper.Map<Order>(x))
+                    
                 .ToListAsync();
             return result;
         }

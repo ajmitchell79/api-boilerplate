@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using API_BoilerPlate.API.Helper;
@@ -83,11 +84,14 @@ namespace API_BoilerPlate.API
                 c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "My.API.xml"));
             });
 
+            services.AddSingleton<HttpClient>();
+
             services.AddDbContext<TestContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MyConnection1")));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
             services.AddTransient<IShoesService, ShoesService>();
              services.AddTransient<IOrdersService, OrdersService>();
+            services.AddTransient<IHttpService, HttpService>();
 
             //  services.AddTransient<IShoesRepository>(f => new ShoesRepository(Configuration.GetConnectionString("MyConnection1")));
             //  services.AddTransient<IOrdersRepository>(f => new OrdersRepository(Configuration.GetConnectionString("MyConnection1"))) ;

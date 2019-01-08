@@ -48,7 +48,7 @@ namespace API_BoilerPlate.API.Controllers
         {
             try
             {
-                var result = await _ordersService.GetAllOrders();
+                var result = await _ordersService.GetAllOrdersDetailed();
                 return Ok(result);
             }
             catch (Exception ex)

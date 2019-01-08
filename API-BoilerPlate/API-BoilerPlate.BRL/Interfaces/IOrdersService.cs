@@ -11,5 +11,7 @@ namespace API_BoilerPlate.BRL.Interfaces
         Task<Order> GetOrder(int orderId);
 
         Task<bool> SaveOrder(BRL.Command.Order order);
+
+        Task<List<OrderDetailed>> GetAllOrdersDetailed();
     }
 }

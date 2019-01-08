@@ -1,0 +1,14 @@
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.Services.deps.json
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.Services.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.Services.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.BRL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.DAL.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.BRL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\bin\Release\netcoreapp2.1\API-BoilerPlate.DAL.pdb
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.csprojAssemblyReference.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.csproj.CoreCompileInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.AssemblyInfoInputs.cache
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.AssemblyInfo.cs
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.csproj.CopyComplete
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.dll
+C:\Users\amitchell\Source\Repos\api-boilerplate\API-BoilerPlate\API-BoilerPlate.Services\obj\Release\netcoreapp2.1\API-BoilerPlate.Services.pdb
